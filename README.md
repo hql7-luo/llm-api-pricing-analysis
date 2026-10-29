@@ -25,7 +25,7 @@ The [official Kaggle metadata](https://www.kaggle.com/api/v1/datasets/view/kanch
 
 ## Original course work and individual extension after the course
 
-The original UW IS 451 group project ran from April to June 2026 and received **The Most Trendy Technology Award**. My original contribution was screening the dataset from 453 records to 299 paid-model records. This repository is an independently rewritten **individual extension after the course**, including reproduction, statistical diagnostics, grouped validation, and new summaries. It does not present the entire group project as solo work, and it does not republish the original presentation or other members' code.
+The original UW IS 451 group project ran from April to June 2026 and received **The Most Trendy Technology Award**. My original contributions were screening the dataset from 453 records to 299 paid-model records and writing the initial regression notebook, including full and reduced models without release year. This repository is an independently rewritten **individual extension after the course**, including reproduction, statistical diagnostics, grouped validation, and new summaries. It does not present the entire group project as solo work, and it does not republish the original presentation or other members' code.
 
 ## Methods
 
