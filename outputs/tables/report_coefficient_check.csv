@@ -1,0 +1,6 @@
+term,report_effect,reproduced_effect,scale
+aa_intelligence_index,0.28,0.2754452670461492,"1 SD of predictor, ddof=0"
+parameter_count,0.26,0.2551428351940588,"1 SD of predictor, ddof=0"
+release_year,-0.33,-0.3327512907699597,"1 SD of predictor, ddof=0"
+output_tokens_per_second,-0.74,-0.7419560601374453,"1 SD of predictor, ddof=0"
+is_open_source,-1.36,-1.3624552020529692,0 to 1

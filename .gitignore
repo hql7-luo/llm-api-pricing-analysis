@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+.env
+.cache/
+data/raw/
+*.zip
+outputs/private/
+outputs/tables/oof_predictions.csv

@@ -1,0 +1,19 @@
+{
+  "dataset": "kanchana1990/llm-price-performance-tracker-march-2026",
+  "dataset_version": 1,
+  "snapshot_date": "2026-03-31",
+  "metadata_checked_date": "2026-10-28",
+  "latest_version_at_check": 1,
+  "newer_snapshot_found": false,
+  "filename": "llm_price_performance_tracker_2026-03-31.csv",
+  "csv_bytes": 99892,
+  "csv_sha256": "1c83338dc40f826ce19f3c6d17a3e03970979587fb860dccc79846f691e07177",
+  "zip_bytes": 37317,
+  "zip_sha256": "d8984829ce0fa195ddfac5d2ab7897cd71fe5a1506aa1be31614eb7c8c4fee8e",
+  "download_url": "https://www.kaggle.com/api/v1/datasets/download/kanchana1990/llm-price-performance-tracker-march-2026?datasetVersionNumber=1",
+  "metadata_url": "https://www.kaggle.com/api/v1/datasets/view/kanchana1990/llm-price-performance-tracker-march-2026",
+  "kaggle_license_label": "CC0: Public Domain",
+  "upstream_rights_independently_verified": false,
+  "raw_data_redistributed": false,
+  "provider_column_means": "Model creator or developer, not necessarily the inference API provider"
+}

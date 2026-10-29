@@ -1,0 +1,8 @@
+feature,missing_rows,paid_rows
+aa_intelligence_index,2,299
+output_tokens_per_second,36,299
+time_to_first_token_s,36,299
+time_to_first_answer_s,36,299
+parameter_count,103,299
+release_year,84,299
+is_open_source,0,299

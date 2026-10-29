@@ -1,0 +1,23 @@
+term,vif
+aa_intelligence_index,2.269724615126912
+output_tokens_per_second,1.2801230783949986
+time_to_first_token_s,2.9984296819628757
+time_to_first_answer_s,3.048843958795933
+parameter_count,2.20256695555459
+release_year,2.0230642198978583
+is_open_source,7.562544894593054
+provider_Alibaba,12.614131935820465
+provider_Amazon,5.205307250120437
+provider_Anthropic,8.7475938787759
+provider_DeepSeek,4.255816422932859
+provider_Google,6.208338038648418
+provider_Kimi,2.318529205523597
+provider_Meta,3.4526214926155854
+provider_MiniMax,2.3715595854413096
+provider_Mistral,5.81665001322757
+provider_NVIDIA,3.6082213830702834
+provider_Nous Research,2.0133826715124523
+provider_OpenAI,14.700022353417197
+provider_Other creators,6.691070216932513
+provider_Z AI,4.3859100794980845
+provider_xAI,4.361575496782358

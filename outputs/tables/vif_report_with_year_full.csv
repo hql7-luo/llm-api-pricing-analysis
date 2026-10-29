@@ -1,0 +1,38 @@
+term,vif
+aa_intelligence_index,2.804811006944858
+output_tokens_per_second,2.2247084903372465
+time_to_first_token_s,3.1266447701364077
+time_to_first_answer_s,3.2494050994236874
+parameter_count,2.3238807553433336
+release_year,2.244748514136294
+is_open_source,7.96785200711636
+provider_Alibaba,12.91760279594068
+provider_Allen Institute for AI,1.503978945116166
+provider_Amazon,5.332000668459942
+provider_Anthropic,8.96911290871572
+provider_Baidu,1.2573645087204364
+provider_ByteDance Seed,1.3025348303681938
+provider_Cohere,1.6242623912878404
+provider_Deep Cogito,1.2601797905816077
+provider_DeepSeek,4.277440412120275
+provider_Google,6.441095365456054
+provider_IBM,1.6239603007001266
+provider_Inception,1.810936553455248
+provider_InclusionAI,1.501173083179142
+provider_Kimi,2.389449158844212
+provider_KwaiKAT,1.5826588750808803
+provider_Liquid AI,1.2109940939821737
+provider_Meta,3.4540267780173273
+provider_Microsoft Azure,1.2155624729660526
+provider_MiniMax,2.438906900989071
+provider_Mistral,5.866640366142977
+provider_NVIDIA,3.672999655749677
+provider_Nous Research,2.0171009927554873
+provider_OpenAI,15.035058273728582
+provider_Reka AI,1.5021250141013165
+provider_StepFun,1.2496014654363061
+provider_Swiss AI Initiative,1.5162020581969282
+provider_Upstage,1.2493935443174042
+provider_Xiaomi,2.1531984749076583
+provider_Z AI,4.495159371782614
+provider_xAI,4.463283906622908

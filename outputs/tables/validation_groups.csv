@@ -1,0 +1,300 @@
+row_id,model_name,model_slug,provider,model_group
+0,GPT-5.4 (xhigh),gpt-5-4,OpenAI,OpenAI::gpt 5 4
+1,Gemini 3.1 Pro Preview,gemini-3-1-pro-preview,Google,Google::gemini 3 1 pro
+2,GPT-5.3 Codex (xhigh),gpt-5-3-codex,OpenAI,OpenAI::gpt 5 3 codex
+3,"Claude Opus 4.6 (Adaptive Reasoning, Max Effort)",claude-opus-4-6-adaptive,Anthropic,Anthropic::claude opus 4 6
+4,"Claude Sonnet 4.6 (Adaptive Reasoning, Max Effort)",claude-sonnet-4-6-adaptive,Anthropic,Anthropic::claude sonnet 4 6
+5,GPT-5.2 (xhigh),gpt-5-2,OpenAI,OpenAI::gpt 5 2
+6,GLM-5 (Reasoning),glm-5,Z AI,Z AI::glm 5
+7,Claude Opus 4.5 (Reasoning),claude-opus-4-5-thinking,Anthropic,Anthropic::claude opus 4 5
+8,MiniMax-M2.7,minimax-m2-7,MiniMax,MiniMax::minimax m2 7
+9,MiMo-V2-Pro,mimo-v2-pro,Xiaomi,Xiaomi::mimo v2 pro
+10,GPT-5.2 Codex (xhigh),gpt-5-2-codex,OpenAI,OpenAI::gpt 5 2 codex
+11,Grok 4.20 Beta 0309 (Reasoning),grok-4-20,xAI,xAI::grok 4 20 beta 0309
+12,Gemini 3 Pro Preview (high),gemini-3-pro,Google,Google::gemini 3 pro
+13,GPT-5.4 mini (xhigh),gpt-5-4-mini,OpenAI,OpenAI::gpt 5 4 mini
+14,GPT-5.1 (high),gpt-5-1,OpenAI,OpenAI::gpt 5 1
+16,Kimi K2.5 (Reasoning),kimi-k2-5,Kimi,Kimi::kimi k2 5
+17,GPT-5.2 (medium),gpt-5-2-medium,OpenAI,OpenAI::gpt 5 2
+18,"Claude Opus 4.6 (Non-reasoning, High Effort)",claude-opus-4-6,Anthropic,Anthropic::claude opus 4 6
+19,Gemini 3 Flash Preview (Reasoning),gemini-3-flash-reasoning,Google,Google::gemini 3 flash
+20,Qwen3.5 397B A17B (Reasoning),qwen3-5-397b-a17b,Alibaba,Alibaba::qwen3 5 397b a17b
+21,GPT-5 Codex (high),gpt-5-codex,OpenAI,OpenAI::gpt 5 codex
+22,GPT-5 (high),gpt-5,OpenAI,OpenAI::gpt 5
+23,GPT-5.4 nano (xhigh),gpt-5-4-nano,OpenAI,OpenAI::gpt 5 4 nano
+24,"Claude Sonnet 4.6 (Non-reasoning, High Effort)",claude-sonnet-4-6,Anthropic,Anthropic::claude sonnet 4 6
+25,KAT Coder Pro V2,kat-coder-pro-v2,KwaiKAT,KwaiKAT::kat coder pro v2
+27,GPT-5.1 Codex (high),gpt-5-1-codex,OpenAI,OpenAI::gpt 5 1 codex
+28,Claude Opus 4.5 (Non-reasoning),claude-opus-4-5,Anthropic,Anthropic::claude opus 4 5
+29,Claude 4.5 Sonnet (Reasoning),claude-4-5-sonnet-thinking,Anthropic,Anthropic::claude sonnet 4 5
+30,"Claude Sonnet 4.6 (Non-reasoning, Low Effort)",claude-sonnet-4-6-non-reasoning-low-effort,Anthropic,Anthropic::claude sonnet 4 6
+31,Qwen3.5 27B (Reasoning),qwen3-5-27b,Alibaba,Alibaba::qwen3 5 27b
+32,GLM-4.7 (Reasoning),glm-4-7,Z AI,Z AI::glm 4 7
+33,GPT-5 (medium),gpt-5-medium,OpenAI,OpenAI::gpt 5
+34,Claude 4.1 Opus (Reasoning),claude-4-1-opus-thinking,Anthropic,Anthropic::claude opus 4 1
+35,MiniMax-M2.5,minimax-m2-5,MiniMax,MiniMax::minimax m2 5
+36,DeepSeek V3.2 (Reasoning),deepseek-v3-2-reasoning,DeepSeek,DeepSeek::deepseek v3 2
+37,Qwen3.5 122B A10B (Reasoning),qwen3-5-122b-a10b,Alibaba,Alibaba::qwen3 5 122b a10b
+38,MiMo-V2-Flash (Feb 2026),mimo-v2-0206,Xiaomi,Xiaomi::mimo v2 flash
+39,Grok 4,grok-4,xAI,xAI::grok 4
+40,Gemini 3 Pro Preview (low),gemini-3-pro-low,Google,Google::gemini 3 pro
+41,GPT-5 mini (high),gpt-5-mini,OpenAI,OpenAI::gpt 5 mini
+42,Kimi K2 Thinking,kimi-k2-thinking,Kimi,Kimi::kimi k2
+43,o3-pro,o3-pro,OpenAI,OpenAI::o3 pro
+44,GLM-5 (Non-reasoning),glm-5-non-reasoning,Z AI,Z AI::glm 5
+45,Qwen3.5 397B A17B (Non-reasoning),qwen3-5-397b-a17b-non-reasoning,Alibaba,Alibaba::qwen3 5 397b a17b
+46,Qwen3 Max Thinking,qwen3-max-thinking,Alibaba,Alibaba::qwen3 max
+47,MiniMax-M2.1,minimax-m2-1,MiniMax,MiniMax::minimax m2 1
+48,GPT-5 (low),gpt-5-low,OpenAI,OpenAI::gpt 5
+49,MiMo-V2-Flash (Reasoning),mimo-v2-flash-reasoning,Xiaomi,Xiaomi::mimo v2 flash
+50,Claude 4 Opus (Reasoning),claude-4-opus-thinking,Anthropic,Anthropic::claude opus 4
+51,GPT-5 mini (medium),gpt-5-mini-medium,OpenAI,OpenAI::gpt 5 mini
+52,Claude 4 Sonnet (Reasoning),claude-4-sonnet-thinking,Anthropic,Anthropic::claude sonnet 4
+53,GPT-5.1 Codex mini (high),gpt-5-1-codex-mini,OpenAI,OpenAI::gpt 5 1 codex mini
+54,Grok 4.1 Fast (Reasoning),grok-4-1-fast-reasoning,xAI,xAI::grok 4 1 fast
+55,o3,o3,OpenAI,OpenAI::o3
+56,GPT-5.4 nano (medium),gpt-5-4-nano-medium,OpenAI,OpenAI::gpt 5 4 nano
+57,Step 3.5 Flash,step-3-5-flash,StepFun,StepFun::step 3 5 flash
+58,GPT-5.4 mini (medium),gpt-5-4-mini-medium,OpenAI,OpenAI::gpt 5 4 mini
+59,Kimi K2.5 (Non-reasoning),kimi-k2-5-non-reasoning,Kimi,Kimi::kimi k2 5
+60,Qwen3.5 27B (Non-reasoning),qwen3-5-27b-non-reasoning,Alibaba,Alibaba::qwen3 5 27b
+61,Claude 4.5 Haiku (Reasoning),claude-4-5-haiku-reasoning,Anthropic,Anthropic::claude haiku 4 5
+62,Qwen3.5 35B A3B (Reasoning),qwen3-5-35b-a3b,Alibaba,Alibaba::qwen3 5 35b a3b
+63,Claude 4.5 Sonnet (Non-reasoning),claude-4-5-sonnet,Anthropic,Anthropic::claude sonnet 4 5
+64,MiniMax-M2,minimax-m2,MiniMax,MiniMax::minimax m2
+65,NVIDIA Nemotron 3 Super 120B A12B (Reasoning),nvidia-nemotron-3-super-120b-a12b,NVIDIA,NVIDIA::nvidia nemotron 3 super 120b a12b
+66,Claude 4.1 Opus (Non-reasoning),claude-4-1-opus,Anthropic,Anthropic::claude opus 4 1
+67,KAT-Coder-Pro V1,kat-coder-pro-v1,KwaiKAT,KwaiKAT::kat coder pro v1
+68,Qwen3.5 122B A10B (Non-reasoning),qwen3-5-122b-a10b-non-reasoning,Alibaba,Alibaba::qwen3 5 122b a10b
+69,Nova 2.0 Pro Preview (medium),nova-2-0-pro-reasoning-medium,Amazon,Amazon::nova 2 0 pro
+70,GPT-5.4 (Non-reasoning),gpt-5-4-non-reasoning,OpenAI,OpenAI::gpt 5 4
+71,Grok 4 Fast (Reasoning),grok-4-fast-reasoning,xAI,xAI::grok 4 fast
+72,Gemini 3 Flash Preview (Non-reasoning),gemini-3-flash,Google,Google::gemini 3 flash
+73,Claude 3.7 Sonnet (Reasoning),claude-3-7-sonnet-thinking,Anthropic,Anthropic::claude sonnet 3 7
+74,Gemini 2.5 Pro,gemini-2-5-pro,Google,Google::gemini 2 5 pro
+75,GLM-4.7 (Non-reasoning),glm-4-7-non-reasoning,Z AI,Z AI::glm 4 7
+76,DeepSeek V3.1 Terminus (Reasoning),deepseek-v3-1-terminus-reasoning,DeepSeek,DeepSeek::deepseek v3 1 terminus
+77,GPT-5.2 (Non-reasoning),gpt-5-2-non-reasoning,OpenAI,OpenAI::gpt 5 2
+78,Gemini 3.1 Flash-Lite Preview,gemini-3-1-flash-lite-preview,Google,Google::gemini 3 1 flash lite
+80,gpt-oss-120B (high),gpt-oss-120b,OpenAI,OpenAI::gpt oss 120b
+81,o4-mini (high),o4-mini,OpenAI,OpenAI::o4 mini
+82,Claude 4 Opus (Non-reasoning),claude-4-opus,Anthropic,Anthropic::claude opus 4
+83,Claude 4 Sonnet (Non-reasoning),claude-4-sonnet,Anthropic,Anthropic::claude sonnet 4
+84,DeepSeek V3.2 Exp (Reasoning),deepseek-v3-2-reasoning-0925,DeepSeek,DeepSeek::deepseek v3 2 exp
+85,Mercury 2,mercury-2,Inception,Inception::mercury 2
+86,GLM-4.6 (Reasoning),glm-4-6-reasoning,Z AI,Z AI::glm 4 6
+87,Qwen3 Max Thinking (Preview),qwen3-max-thinking-preview,Alibaba,Alibaba::qwen3 max
+88,Qwen3.5 9B (Reasoning),qwen3-5-9b,Alibaba,Alibaba::qwen3 5 9b
+89,DeepSeek V3.2 (Non-reasoning),deepseek-v3-2,DeepSeek,DeepSeek::deepseek v3 2
+91,Grok 3 mini Reasoning (high),grok-3-mini-reasoning,xAI,xAI::grok 3 mini
+92,Nova 2.0 Pro Preview (low),nova-2-0-pro-reasoning-low,Amazon,Amazon::nova 2 0 pro
+93,Qwen3 Max,qwen3-max,Alibaba,Alibaba::qwen3 max
+94,Claude 4.5 Haiku (Non-reasoning),claude-4-5-haiku,Anthropic,Anthropic::claude haiku 4 5
+96,Kimi K2 0905,kimi-k2-0905,Kimi,Kimi::kimi k2 0905
+97,o1,o1,OpenAI,OpenAI::o1
+98,Claude 3.7 Sonnet (Non-reasoning),claude-3-7-sonnet,Anthropic,Anthropic::claude sonnet 3 7
+99,Qwen3.5 35B A3B (Non-reasoning),qwen3-5-35b-a3b-non-reasoning,Alibaba,Alibaba::qwen3 5 35b a3b
+100,MiMo-V2-Flash (Non-reasoning),mimo-v2-flash,Xiaomi,Xiaomi::mimo v2 flash
+102,GLM-4.6 (Non-reasoning),glm-4-6,Z AI,Z AI::glm 4 6
+103,GLM-4.7-Flash (Reasoning),glm-4-7-flash,Z AI,Z AI::glm 4 7 flash
+104,Nova 2.0 Lite (medium),nova-2-0-lite-reasoning-medium,Amazon,Amazon::nova 2 0 lite
+105,Grok 4.20 Beta 0309 (Non-reasoning),grok-4-20-non-reasoning,xAI,xAI::grok 4 20 beta 0309
+106,Gemini 2.5 Pro Preview (May' 25),gemini-2-5-pro-05-06,Google,Google::gemini 2 5 pro
+107,Qwen3 235B A22B 2507 (Reasoning),qwen3-235b-a22b-instruct-2507-reasoning,Alibaba,Alibaba::qwen3 235b a22b 2507
+110,Grok Code Fast 1,grok-code-fast-1,xAI,xAI::grok code fast 1
+111,DeepSeek V3.1 Terminus (Non-reasoning),deepseek-v3-1-terminus,DeepSeek,DeepSeek::deepseek v3 1 terminus
+112,DeepSeek V3.2 Exp (Non-reasoning),deepseek-v3-2-0925,DeepSeek,DeepSeek::deepseek v3 2 exp
+114,Qwen3 Coder Next,qwen3-coder-next,Alibaba,Alibaba::qwen3 coder next
+115,DeepSeek V3.1 (Non-reasoning),deepseek-v3-1,DeepSeek,DeepSeek::deepseek v3 1
+116,Nova 2.0 Omni (medium),nova-2-0-omni-reasoning-medium,Amazon,Amazon::nova 2 0 omni
+118,DeepSeek V3.1 (Reasoning),deepseek-v3-1-reasoning,DeepSeek,DeepSeek::deepseek v3 1
+119,Qwen3 VL 235B A22B (Reasoning),qwen3-vl-235b-a22b-reasoning,Alibaba,Alibaba::qwen3 vl 235b a22b
+121,GPT-5.1 (Non-reasoning),gpt-5-1-non-reasoning,OpenAI,OpenAI::gpt 5 1
+122,Qwen3.5 9B (Non-reasoning),qwen3-5-9b-non-reasoning,Alibaba,Alibaba::qwen3 5 9b
+123,Mistral Small 4 (Reasoning),mistral-small-4,Mistral,Mistral::mistral small 4
+124,Qwen3.5 4B (Reasoning),qwen3-5-4b,Alibaba,Alibaba::qwen3 5 4b
+125,Magistral Medium 1.2,magistral-medium-2509,Mistral,Mistral::magistral medium 1 2
+126,DeepSeek R1 0528 (May '25),deepseek-r1,DeepSeek,DeepSeek::deepseek r1 0528
+127,Gemini 2.5 Flash (Reasoning),gemini-2-5-flash-reasoning,Google,Google::gemini 2 5 flash
+128,GPT-5 nano (high),gpt-5-nano,OpenAI,OpenAI::gpt 5 nano
+129,Qwen3 Next 80B A3B (Reasoning),qwen3-next-80b-a3b-reasoning,Alibaba,Alibaba::qwen3 next 80b a3b
+130,GLM-4.5 (Reasoning),glm-4.5,Z AI,Z AI::glm 4 5
+131,Kimi K2,kimi-k2,Kimi,Kimi::kimi k2
+132,GPT-4.1,gpt-4-1,OpenAI,OpenAI::gpt 4 1
+133,Qwen3 Max (Preview),qwen3-max-preview,Alibaba,Alibaba::qwen3 max
+134,o3-mini,o3-mini,OpenAI,OpenAI::o3 mini
+135,GPT-5 nano (medium),gpt-5-nano-medium,OpenAI,OpenAI::gpt 5 nano
+136,o1-pro,o1-pro,OpenAI,OpenAI::o1 pro
+138,Seed-OSS-36B-Instruct,seed-oss-36b-instruct,ByteDance Seed,ByteDance Seed::seed oss 36b
+139,o3-mini (high),o3-mini-high,OpenAI,OpenAI::o3 mini
+140,Grok 3,grok-3,xAI,xAI::grok 3
+141,Qwen3 235B A22B 2507 Instruct,qwen3-235b-a22b-instruct-2507,Alibaba,Alibaba::qwen3 235b a22b 2507
+142,Qwen3 Coder 480B A35B Instruct,qwen3-coder-480b-a35b-instruct,Alibaba,Alibaba::qwen3 coder 480b a35b
+143,Qwen3 VL 32B (Reasoning),qwen3-vl-32b-reasoning,Alibaba,Alibaba::qwen3 vl 32b
+145,Nova 2.0 Lite (low),nova-2-0-lite-reasoning-low,Amazon,Amazon::nova 2 0 lite
+146,gpt-oss-120B (low),gpt-oss-120b-low,OpenAI,OpenAI::gpt oss 120b
+147,gpt-oss-20B (high),gpt-oss-20b,OpenAI,OpenAI::gpt oss 20b
+148,MiniMax M1 80k,minimax-m1-80k,MiniMax,MiniMax::minimax m1 80k
+149,GPT-5.4 nano (Non-Reasoning),gpt-5-4-nano-non-reasoning,OpenAI,OpenAI::gpt 5 4 nano
+150,NVIDIA Nemotron 3 Nano 30B A3B (Reasoning),nvidia-nemotron-3-nano-30b-a3b-reasoning,NVIDIA,NVIDIA::nvidia nemotron 3 nano 30b a3b
+153,GPT-5 (minimal),gpt-5-minimal,OpenAI,OpenAI::gpt 5
+155,o1-preview,o1-preview,OpenAI,OpenAI::o1
+157,Grok 4.1 Fast (Non-reasoning),grok-4-1-fast,xAI,xAI::grok 4 1 fast
+159,GLM-4.6V (Reasoning),glm-4-6v-reasoning,Z AI,Z AI::glm 4 6v
+160,GPT-5.4 mini (Non-Reasoning),gpt-5-4-mini-non-reasoning,OpenAI,OpenAI::gpt 5 4 mini
+161,GLM-4.5-Air,glm-4-5-air,Z AI,Z AI::glm 4 5 air
+162,Nova 2.0 Omni (low),nova-2-0-omni-reasoning-low,Amazon,Amazon::nova 2 0 omni
+163,Nova 2.0 Pro Preview (Non-reasoning),nova-2-0-pro,Amazon,Amazon::nova 2 0 pro
+165,Grok 4 Fast (Non-reasoning),grok-4-fast,xAI,xAI::grok 4 fast
+166,GPT-4.1 mini,gpt-4-1-mini,OpenAI,OpenAI::gpt 4 1 mini
+168,Mistral Large 3,mistral-large-3,Mistral,Mistral::mistral large 3
+169,Qwen3.5 4B (Non-reasoning),qwen3-5-4b-non-reasoning,Alibaba,Alibaba::qwen3 5 4b
+170,Qwen3 30B A3B 2507 (Reasoning),qwen3-30b-a3b-2507-reasoning,Alibaba,Alibaba::qwen3 30b a3b 2507
+171,DeepSeek V3 0324,deepseek-v3-0324,DeepSeek,DeepSeek::deepseek v3 0324
+173,GLM-4.7-Flash (Non-reasoning),glm-4-7-flash-non-reasoning,Z AI,Z AI::glm 4 7 flash
+175,GPT-5 (ChatGPT),gpt-5-chatgpt,OpenAI,OpenAI::gpt 5
+178,Gemini 2.5 Flash-Lite Preview (Sep '25) (Reasoning),gemini-2-5-flash-lite-preview-09-2025-reasoning,Google,Google::gemini 2 5 flash lite
+179,Mistral Medium 3.1,mistral-medium-3-1,Mistral,Mistral::mistral medium 3 1
+181,gpt-oss-20B (low),gpt-oss-20b-low,OpenAI,OpenAI::gpt oss 20b
+182,Qwen3 VL 235B A22B Instruct,qwen3-vl-235b-a22b-instruct,Alibaba,Alibaba::qwen3 vl 235b a22b
+183,GPT-5 mini (minimal),gpt-5-mini-minimal,OpenAI,OpenAI::gpt 5 mini
+185,Gemini 2.5 Flash (Non-reasoning),gemini-2-5-flash,Google,Google::gemini 2 5 flash
+187,Qwen3 Next 80B A3B Instruct,qwen3-next-80b-a3b-instruct,Alibaba,Alibaba::qwen3 next 80b a3b
+189,Qwen3 Coder 30B A3B Instruct,qwen3-coder-30b-a3b-instruct,Alibaba,Alibaba::qwen3 coder 30b a3b
+191,Qwen3 235B A22B (Reasoning),qwen3-235b-a22b-instruct-reasoning,Alibaba,Alibaba::qwen3 235b a22b
+192,QwQ 32B,qwq-32b,Alibaba,Alibaba::qwq 32b
+193,Qwen3 VL 30B A3B (Reasoning),qwen3-vl-30b-a3b-reasoning,Alibaba,Alibaba::qwen3 vl 30b a3b
+196,Gemini 2.5 Flash-Lite Preview (Sep '25) (Non-reasoning),gemini-2-5-flash-lite-preview-09-2025,Google,Google::gemini 2 5 flash lite
+198,Nova Premier,nova-premier,Amazon,Amazon::nova premier
+200,DeepSeek R1 (Jan '25),deepseek-r1-0120,DeepSeek,DeepSeek::deepseek r1
+201,Mistral Medium 3,mistral-medium-3,Mistral,Mistral::mistral medium 3
+204,Claude 3.5 Haiku,claude-3-5-haiku,Anthropic,Anthropic::claude haiku 3 5
+206,Llama Nemotron Super 49B v1.5 (Reasoning),llama-nemotron-super-49b-v1-5-reasoning,NVIDIA,NVIDIA::llama nemotron super 49b v1 5
+207,Devstral Medium,devstral-medium,Mistral,Mistral::devstral medium
+208,Mistral Small 4 (Non-reasoning),mistral-small-4-non-reasoning,Mistral,Mistral::mistral small 4
+210,GPT-4o (Aug '24),gpt-4o-2024-08-06,OpenAI,OpenAI::gpt 4o
+212,Hermes 4 - Llama-3.1 405B (Reasoning),hermes-4-llama-3-1-405b-reasoning,Nous Research,Nous Research::hermes 4 llama 3 1 405b
+214,Gemini 2.0 Flash (Feb '25),gemini-2-0-flash,Google,Google::gemini 2 0 flash
+215,Llama 4 Maverick,llama-4-maverick,Meta,Meta::llama 4 maverick
+218,Magistral Small 1.2,magistral-small-2509,Mistral,Mistral::magistral small 1 2
+220,Claude 3 Opus,claude-3-opus,Anthropic,Anthropic::claude opus 3
+221,Devstral Small (May '25),devstral-small-2505,Mistral,Mistral::devstral small
+222,Nova 2.0 Lite (Non-reasoning),nova-2-0-lite,Amazon,Amazon::nova 2 0 lite
+225,Gemini 2.5 Flash-Lite (Reasoning),gemini-2-5-flash-lite-reasoning,Google,Google::gemini 2 5 flash lite
+226,Hermes 4 - Llama-3.1 405B (Non-reasoning),hermes-4-llama-3-1-405b,Nous Research,Nous Research::hermes 4 llama 3 1 405b
+227,Llama 3.1 Instruct 405B,llama-3-1-instruct-405b,Meta,Meta::llama 3 1 405b
+228,GPT-4o (Nov '24),gpt-4o,OpenAI,OpenAI::gpt 4o
+229,DeepSeek R1 Distill Qwen 32B,deepseek-r1-distill-qwen-32b,DeepSeek,DeepSeek::deepseek r1 distill qwen 32b
+230,Qwen3 VL 32B Instruct,qwen3-vl-32b-instruct,Alibaba,Alibaba::qwen3 vl 32b
+231,GLM-4.6V (Non-reasoning),glm-4-6v,Z AI,Z AI::glm 4 6v
+232,Qwen3 235B A22B (Non-reasoning),qwen3-235b-a22b-instruct,Alibaba,Alibaba::qwen3 235b a22b
+235,Qwen3 VL 8B (Reasoning),qwen3-vl-8b-reasoning,Alibaba,Alibaba::qwen3 vl 8b
+237,Nova 2.0 Omni (Non-reasoning),nova-2-0-omni,Amazon,Amazon::nova 2 0 omni
+238,Qwen3 32B (Reasoning),qwen3-32b-instruct-reasoning,Alibaba,Alibaba::qwen3 32b
+239,DeepSeek V3 (Dec '24),deepseek-v3,DeepSeek,DeepSeek::deepseek v3
+241,Qwen2.5 Max,qwen-2-5-max,Alibaba,Alibaba::qwen2 5 max
+242,Qwen3.5 2B (Reasoning),qwen3-5-2b,Alibaba,Alibaba::qwen3 5 2b
+243,Qwen3 14B (Reasoning),qwen3-14b-instruct-reasoning,Alibaba,Alibaba::qwen3 14b
+245,Qwen3 VL 30B A3B Instruct,qwen3-vl-30b-a3b-instruct,Alibaba,Alibaba::qwen3 vl 30b a3b
+246,Hermes 4 - Llama-3.1 70B (Reasoning),hermes-4-llama-3-1-70b-reasoning,Nous Research,Nous Research::hermes 4 llama 3 1 70b
+247,DeepSeek R1 Distill Llama 70B,deepseek-r1-distill-llama-70b,DeepSeek,DeepSeek::deepseek r1 distill llama 70b
+248,Ministral 3 14B,ministral-3-14b,Mistral,Mistral::ministral 3 14b
+251,Claude 3.5 Sonnet (Oct '24),claude-35-sonnet,Anthropic,Anthropic::claude sonnet 3 5
+254,Ling-flash-2.0,ling-flash-2-0,InclusionAI,InclusionAI::ling flash 2 0
+255,Qwen3 Omni 30B A3B (Reasoning),qwen3-omni-30b-a3b-reasoning,Alibaba,Alibaba::qwen3 omni 30b a3b
+259,Qwen3 30B A3B (Reasoning),qwen3-30b-a3b-instruct-reasoning,Alibaba,Alibaba::qwen3 30b a3b
+261,QwQ 32B-Preview,QwQ-32B-Preview,Alibaba,Alibaba::qwq 32b
+262,Devstral Small (Jul '25),devstral-small,Mistral,Mistral::devstral small
+263,Mistral Small 3.2,mistral-small-3-2,Mistral,Mistral::mistral small 3 2
+264,GLM-4.5V (Reasoning),glm-4-5v-reasoning,Z AI,Z AI::glm 4 5v
+265,Mistral Large 2 (Nov '24),mistral-large-2,Mistral,Mistral::mistral large 2
+266,Qwen3 30B A3B 2507 Instruct,qwen3-30b-a3b-2507,Alibaba,Alibaba::qwen3 30b a3b 2507
+267,ERNIE 4.5 300B A47B,ernie-4-5-300b-a47b,Baidu,Baidu::ernie 4 5 300b a47b
+268,Llama 3.1 Nemotron Ultra 253B v1 (Reasoning),llama-3-1-nemotron-ultra-253b-v1-reasoning,NVIDIA,NVIDIA::llama 3 1 nemotron ultra 253b v1
+269,NVIDIA Nemotron Nano 12B v2 VL (Reasoning),nvidia-nemotron-nano-12b-v2-vl-reasoning,NVIDIA,NVIDIA::nvidia nemotron nano 12b v2 vl
+271,NVIDIA Nemotron Nano 9B V2 (Reasoning),nvidia-nemotron-nano-9b-v2-reasoning,NVIDIA,NVIDIA::nvidia nemotron nano 9b v2
+272,Ministral 3 8B,ministral-3-8b,Mistral,Mistral::ministral 3 8b
+273,Qwen3.5 2B (Non-reasoning),qwen3-5-2b-non-reasoning,Alibaba,Alibaba::qwen3 5 2b
+276,Llama Nemotron Super 49B v1.5 (Non-reasoning),llama-nemotron-super-49b-v1-5,NVIDIA,NVIDIA::llama nemotron super 49b v1 5
+277,Mistral Small 3.1,mistral-small-3-1,Mistral,Mistral::mistral small 3 1
+278,Qwen3 32B (Non-reasoning),qwen3-32b-instruct,Alibaba,Alibaba::qwen3 32b
+280,GPT-4o (May '24),gpt-4o-2024-05-13,OpenAI,OpenAI::gpt 4o
+281,Llama 3.3 Instruct 70B,llama-3-3-instruct-70b,Meta,Meta::llama 3 3 70b
+286,Qwen3 VL 8B Instruct,qwen3-vl-8b-instruct,Alibaba,Alibaba::qwen3 vl 8b
+287,Claude 3.5 Sonnet (June '24),claude-35-sonnet-june-24,Anthropic,Anthropic::claude sonnet 3 5
+288,Qwen3 4B (Reasoning),qwen3-4b-instruct-reasoning,Alibaba,Alibaba::qwen3 4b
+291,Ring-flash-2.0,ring-flash-2-0,InclusionAI,InclusionAI::ring flash 2 0
+292,Pixtral Large,pixtral-large-2411,Mistral,Mistral::pixtral large
+296,GPT-5 nano (minimal),gpt-5-nano-minimal,OpenAI,OpenAI::gpt 5 nano
+297,GPT-4 Turbo,gpt-4-turbo,OpenAI,OpenAI::gpt 4 turbo
+300,Llama 4 Scout,llama-4-scout,Meta,Meta::llama 4 scout
+301,Command A,command-a,Cohere,Cohere::command a
+302,Nova Pro,nova-pro,Amazon,Amazon::nova pro
+303,Llama 3.1 Nemotron Instruct 70B,llama-3-1-nemotron-instruct-70b,NVIDIA,NVIDIA::llama 3 1 nemotron 70b
+305,NVIDIA Nemotron 3 Nano 30B A3B (Non-reasoning),nvidia-nemotron-3-nano-30b-a3b,NVIDIA,NVIDIA::nvidia nemotron 3 nano 30b a3b
+306,NVIDIA Nemotron Nano 9B V2 (Non-reasoning),nvidia-nemotron-nano-9b-v2,NVIDIA,NVIDIA::nvidia nemotron nano 9b v2
+308,Qwen3 8B (Reasoning),qwen3-8b-instruct-reasoning,Alibaba,Alibaba::qwen3 8b
+309,Mistral Large 2 (Jul '24),mistral-large-2407,Mistral,Mistral::mistral large 2
+310,GPT-4.1 nano,gpt-4-1-nano,OpenAI,OpenAI::gpt 4 1 nano
+313,Qwen3 14B (Non-reasoning),qwen3-14b-instruct,Alibaba,Alibaba::qwen3 14b
+314,GPT-4,gpt-4,OpenAI,OpenAI::gpt 4
+315,Mistral Small 3,mistral-small-3,Mistral,Mistral::mistral small 3
+316,Nova Lite,nova-lite,Amazon,Amazon::nova lite
+317,GLM-4.5V (Non-reasoning),glm-4-5v,Z AI,Z AI::glm 4 5v
+318,Gemini 2.5 Flash-Lite (Non-reasoning),gemini-2-5-flash-lite,Google,Google::gemini 2 5 flash lite
+319,GPT-4o mini,gpt-4o-mini,OpenAI,OpenAI::gpt 4o mini
+320,Hermes 4 - Llama-3.1 70B (Non-reasoning),hermes-4-llama-3-1-70b,Nous Research,Nous Research::hermes 4 llama 3 1 70b
+321,Llama 3.1 Instruct 70B,llama-3-1-instruct-70b,Meta,Meta::llama 3 1 70b
+322,Qwen3 4B (Non-reasoning),qwen3-4b-instruct,Alibaba,Alibaba::qwen3 4b
+324,Qwen3 30B A3B (Non-reasoning),qwen3-30b-a3b-instruct,Alibaba,Alibaba::qwen3 30b a3b
+326,Claude 3 Haiku,claude-3-haiku,Anthropic,Anthropic::claude haiku 3
+329,Olmo 3.1 32B Instruct,olmo-3-1-32b-instruct,Allen Institute for AI,Allen Institute for AI::olmo 3 1 32b
+334,Reka Flash (Sep '24),reka-flash,Reka AI,Reka AI::reka flash
+335,Qwen2.5 Turbo,qwen-turbo,Alibaba,Alibaba::qwen2 5 turbo
+337,Llama 3.2 Instruct 90B (Vision),llama-3-2-instruct-90b-vision,Meta,Meta::llama 3 2 90b
+338,Solar Mini,solar-mini,Upstage,Upstage::solar mini
+339,Llama 3.1 Instruct 8B,llama-3-1-instruct-8b,Meta,Meta::llama 3 1 8b
+343,Ministral 3 3B,ministral-3-3b,Mistral,Mistral::ministral 3 3b
+345,Jamba 1.7 Large,jamba-1-7-large,AI21 Labs,AI21 Labs::jamba 1 7 large
+347,Granite 4.0 H Small,granite-4-0-h-small,IBM,IBM::granite 4 0 h small
+348,Jamba 1.5 Large,jamba-1-5-large,AI21 Labs,AI21 Labs::jamba 1 5 large
+349,Qwen3 Omni 30B A3B Instruct,qwen3-omni-30b-a3b-instruct,Alibaba,Alibaba::qwen3 omni 30b a3b
+351,Hermes 3 - Llama-3.1 70B,hermes-3-llama-3-1-70b,Nous Research,Nous Research::hermes 3 llama 3 1 70b
+352,Qwen3 8B (Non-reasoning),qwen3-8b-instruct,Alibaba,Alibaba::qwen3 8b
+353,Jamba 1.6 Large,jamba-1-6-large,AI21 Labs,AI21 Labs::jamba 1 6 large
+355,Qwen3.5 0.8B (Reasoning),qwen3-5-0-8b,Alibaba,Alibaba::qwen3 5 0 8b
+357,LFM2 24B A2B,lfm2-24b-a2b,Liquid AI,Liquid AI::lfm2 24b a2b
+358,Phi-4,phi-4,Microsoft Azure,Microsoft Azure::phi 4
+360,Claude 3 Sonnet,claude-3-sonnet,Anthropic,Anthropic::claude sonnet 3
+361,Nova Micro,nova-micro,Amazon,Amazon::nova micro
+362,Mistral Small (Sep '24),mistral-small,Mistral,Mistral::mistral small
+366,NVIDIA Nemotron Nano 12B v2 VL (Non-reasoning),nvidia-nemotron-nano-12b-v2-vl,NVIDIA,NVIDIA::nvidia nemotron nano 12b v2 vl
+369,Qwen3.5 0.8B (Non-reasoning),qwen3-5-0-8b-non-reasoning,Alibaba,Alibaba::qwen3 5 0 8b
+370,Mistral Large (Feb '24),mistral-large,Mistral,Mistral::mistral large
+372,Llama 2 Chat 7B,llama-2-chat-7b,Meta,Meta::llama 2 chat 7b
+373,Llama 3.2 Instruct 3B,llama-3-2-instruct-3b,Meta,Meta::llama 3 2 3b
+377,Reka Flash 3,reka-flash-3,Reka AI,Reka AI::reka flash 3
+386,Mistral Medium,mistral-medium,Mistral,Mistral::mistral medium
+387,GPT-3.5 Turbo,gpt-35-turbo,OpenAI,OpenAI::gpt 3 5 turbo
+388,Mistral Small (Feb '24),mistral-small-2402,Mistral,Mistral::mistral small
+389,Llama 3 Instruct 70B,llama-3-instruct-70b,Meta,Meta::llama 3 70b
+394,Llama 3.2 Instruct 11B (Vision),llama-3-2-instruct-11b-vision,Meta,Meta::llama 3 2 11b
+403,Command-R+ (Apr '24),command-r-plus-04-2024,Cohere,Cohere::command r plus
+407,Olmo 3 7B Instruct,olmo-3-7b-instruct,Allen Institute for AI,Allen Institute for AI::olmo 3 7b
+413,Qwen3 1.7B (Reasoning),qwen3-1.7b-instruct-reasoning,Alibaba,Alibaba::qwen3 1 7b
+414,Jamba 1.5 Mini,jamba-1-5-mini,AI21 Labs,AI21 Labs::jamba 1 5 mini
+416,Jamba 1.6 Mini,jamba-1-6-mini,AI21 Labs,AI21 Labs::jamba 1 6 mini
+418,Apertus 70B Instruct,apertus-70b-instruct,Swiss AI Initiative,Swiss AI Initiative::apertus 70b
+420,Mixtral 8x7B Instruct,mixtral-8x7b-instruct,Mistral,Mistral::mixtral 8x7b
+423,Mistral 7B Instruct,mistral-7b-instruct,Mistral,Mistral::mistral 7b
+425,Command-R (Mar '24),command-r-03-2024,Cohere,Cohere::command r
+429,Granite 3.3 8B (Non-reasoning),granite-3-3-8b-instruct,IBM,IBM::granite 3 3 8b
+431,Qwen3 1.7B (Non-reasoning),qwen3-1.7b-instruct,Alibaba,Alibaba::qwen3 1 7b
+432,Qwen3 0.6B (Reasoning),qwen3-0.6b-instruct-reasoning,Alibaba,Alibaba::qwen3 0 6b
+433,Gemma 3n E4B Instruct,gemma-3n-e4b,Google,Google::gemma 3n e4b
+434,Llama 3 Instruct 8B,llama-3-instruct-8b,Meta,Meta::llama 3 8b
+435,Llama 3.2 Instruct 1B,llama-3-2-instruct-1b,Meta,Meta::llama 3 2 1b
+440,Apertus 8B Instruct,apertus-8b-instruct,Swiss AI Initiative,Swiss AI Initiative::apertus 8b
+441,Qwen3 0.6B (Non-reasoning),qwen3-0.6b-instruct,Alibaba,Alibaba::qwen3 0 6b
+446,GPT-5.4 Pro (xhigh),gpt-5-4-pro,OpenAI,OpenAI::gpt 5 4 pro
+448,Cogito v2.1 (Reasoning),cogito-v2-1-reasoning,Deep Cogito,Deep Cogito::cogito v2 1
