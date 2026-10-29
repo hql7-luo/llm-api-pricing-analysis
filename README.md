@@ -1,5 +1,12 @@
 # LLM API Pricing: Reproduction and Individual Extension
 
+## Key takeaways
+
+- **Question:** Which model features are linked to higher or lower LLM API prices?
+- **Main finding:** In this March 2026 sample, higher capability scores and more parameters are linked to higher prices. Models labeled open-source and models with faster output are linked to lower prices. These are correlations, not proof of cause and effect.
+- **Prediction limits:** For models left out of training, R² was 0.41 on log prices. The model captures some pricing patterns, but individual price predictions can still be far off.
+- **Business use:** Compare actual and predicted prices to shortlist models worth testing for a specific task. This is a price signal, not a quality ranking.
+
 **Research question:** Which observable model characteristics are associated with paid LLM API prices?
 
 This project reconciles a course notebook with its presentation, then examines collinearity, residuals, robust uncertainty, and held-out price predictions. All findings describe associations within a historical sample. They do not identify causes of pricing or establish model quality.
