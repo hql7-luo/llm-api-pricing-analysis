@@ -35,12 +35,12 @@ def write_summary(language, results):
 
     # Keep every numerical claim linked to the actual computation.
     if chinese:
-        title = "LLM API 价格：复现与独立扩展"
-        subtitle = "快照：2026-03-31 | UW IS 451 课程小组项目的课后独立扩展"
+        title = "LLM API 价格：复现与扩展"
+        subtitle = "快照：2026-03-31 | UW IS 451 课程小组项目的课后个人扩展"
         sections = [
             ("研究问题与数据", "哪些可观察的模型特征与付费 API 价格相关？固定 Kaggle 版本 1：453 行中，138 行价格缺失、16 行价格为零，留下 299 行正价格样本。价格单位为每百万 token 的美元混合价格；provider 列实际代表模型开发者。"),
             ("原结果复现", f"加回发布年份，沿用完整模型中 p&lt;0.05 的一次性筛选，自然得到 13 个解释项。精简模型 R²={report['r_squared']:.6f}，调整 R²={report['adjusted_r_squared']:.6f}，与报告的 0.575、0.555 相符；不含年份的 notebook 版 R²=0.566571。连续变量按 1 个标准差换算后的主要系数也对上报告。"),
-            ("诊断与样本外检验", f"原模型含只有一行样本的开发者，杠杆值等于 1，HC3 无法可靠计算。独立扩展将训练样本少于 5 行的开发者合并，再做 HC3 与 5 折分组验证，共 {results['normalized_model_groups']} 个基础模型组。缺失值填补、变量筛选及价格回转修正均只使用训练折。"),
+            ("诊断与样本外检验", f"原模型含只有一行样本的开发者，杠杆值等于 1，HC3 无法可靠计算。扩展部分将训练样本少于 5 行的开发者合并，再做 HC3 与 5 折分组验证，共 {results['normalized_model_groups']} 个基础模型组。缺失值填补、变量筛选及价格回转修正均只使用训练折。"),
         ]
         headers = ["模型", "log MAE", "美元 MAE", "美元 RMSE", "样本外 log R²"]
         row_names = ["完整扩展", "一次筛选", "训练均值基准"]
@@ -48,7 +48,7 @@ def write_summary(language, results):
         ranking = f"主排名覆盖 {results['ranking_eligible_rows']} 行：开发者在训练集出现、所有输入无需填补，且无已知年份错误。Gemma 3n E4B Instruct、Nova Lite 等低于预测基准；o3-pro 等高于基准。它们只是后续任务测试的候选信号，不代表质量优劣、公允价值或因果效果。"
         limits = "只有一个历史快照。参数量缺失 103 行、年份缺失 84 行；有 5 行已知年份错配，历史复现保留原值。p 值筛选属探索性分析；分组依赖名称规则，且仅做一次固定分折。价格规律不能证明某模型适合特定任务。Kaggle 无更新快照，未做两期比较。"
         labels = ["样本外误差（美元单位均为每百万 token）", "发现与业务含义", "价格偏离候选", "关键局限"]
-        origin = "原课程贡献：453→299 数据筛选。新代码、诊断、分组验证及价格偏离分析为课后独立扩展。"
+        origin = "原课程贡献：453→299 数据筛选。新代码、诊断、分组验证及价格偏离分析为课后个人扩展。"
     else:
         title = "LLM API Pricing: Reproduction and Extension"
         subtitle = "March 31, 2026 snapshot | Individual extension after the UW IS 451 course"
