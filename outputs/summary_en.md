@@ -34,6 +34,6 @@ The main ranking covers 160 rows with seen creators, no imputed inputs and no kn
 
 One historical snapshot; 103 missing parameter counts and 84 missing release years. Five known year errors are preserved for reproduction. P-value selection is exploratory; family grouping is rule based and only one fixed fold assignment is used. No newer Kaggle snapshot was found, so no two-date comparison is reported.
 
-Original course contribution: data screening from 453 to 299 rows. New code, diagnostics, validation and deviation analysis are the individual extension.
+Course contribution: data screening (453 → 299) and the first regression notebook. This repo is my follow-up after the course, built with help from AI coding tools.
 
 Source: https://www.kaggle.com/datasets/kanchana1990/llm-price-performance-tracker-march-2026 (v1, metadata checked 2026-10-28).

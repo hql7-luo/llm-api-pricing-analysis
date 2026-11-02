@@ -48,7 +48,7 @@ def write_summary(language, results):
         ranking = f"主排名覆盖 {results['ranking_eligible_rows']} 行：开发者在训练集出现、所有输入无需填补，且无已知年份错误。Gemma 3n E4B Instruct、Nova Lite 等低于预测基准；o3-pro 等高于基准。它们只是后续任务测试的候选信号，不代表质量优劣、公允价值或因果效果。"
         limits = "只有一个历史快照。参数量缺失 103 行、年份缺失 84 行；有 5 行已知年份错配，历史复现保留原值。p 值筛选属探索性分析；分组依赖名称规则，且仅做一次固定分折。价格规律不能证明某模型适合特定任务。Kaggle 无更新快照，未做两期比较。"
         labels = ["样本外误差（美元单位均为每百万 token）", "发现与业务含义", "价格偏离候选", "关键局限"]
-        origin = "原课程贡献：453→299 数据筛选。新代码、诊断、分组验证及价格偏离分析为课后个人扩展。"
+        origin = "原课程贡献：数据筛选（453 → 299）和第一版回归 notebook。本仓库为课后个人扩展，借助了 AI 编程工具。"
     else:
         title = "LLM API Pricing: Reproduction and Extension"
         subtitle = "March 31, 2026 snapshot | Individual extension after the UW IS 451 course"
@@ -63,7 +63,7 @@ def write_summary(language, results):
         ranking = f"The main ranking covers {results['ranking_eligible_rows']} rows with seen creators, no imputed inputs and no known year error. Gemma 3n E4B Instruct and Nova Lite are below the prediction benchmark; o3-pro is above it. These are candidates for task-specific testing, not quality rankings, fair values or causal findings."
         limits = "One historical snapshot; 103 missing parameter counts and 84 missing release years. Five known year errors are preserved for reproduction. P-value selection is exploratory; family grouping is rule based and only one fixed fold assignment is used. No newer Kaggle snapshot was found, so no two-date comparison is reported."
         labels = ["Held-out errors (USD per million tokens)", "Finding and business implication", "Price-deviation candidates", "Key limitations"]
-        origin = "Original course contribution: data screening from 453 to 299 rows. New code, diagnostics, validation and deviation analysis are the individual extension."
+        origin = "Course contribution: data screening (453 → 299) and the first regression notebook. This repo is my follow-up after the course, built with help from AI coding tools."
 
     # Set a compact page with restrained color and a visible source footer.
     body_style = ParagraphStyle("Body", fontName=FONT, fontSize=9.1, leading=12.6, textColor=colors.HexColor("#25364a"), wordWrap="CJK" if chinese else None)
